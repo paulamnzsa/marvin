@@ -1,4 +1,0 @@
-function mostrarnome() {
-console.log("marvin");
-return("O andróide paranóide");
-}
